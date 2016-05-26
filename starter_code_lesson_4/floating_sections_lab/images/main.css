@@ -1,0 +1,73 @@
+
+body{
+   background-color: #1695A3;
+   padding: 100px;
+   content: 100px;
+ }
+
+padding{
+  width: 100px;
+}
+
+img{
+  float: right;
+  margin: 20px 0 0 100px;
+  padding: 10px;
+}
+
+border{
+  font-color: 000000;
+  style: 6px solid;
+}
+
+
+h1{
+  font-size: 50px;
+  font-color: #EB7F00;
+  font-padding: 100px;
+}
+
+h2{
+  font-size: 30px;
+  font-color: FFFFFF;
+  font-padding: 100px;
+}
+
+h3{
+  font-size: 30px;
+  font-color: FFFFFF;
+  font-padding: 100px;
+}
+
+h4{
+  font-size: 30px;
+  font-color: FFFFFF;
+  font-padding: 100px;
+}
+
+
+h5{
+  font-size: 20px;
+  font-color: FFFFFF;
+  font-padding: 100px;
+}
+
+
+h6{
+  font-size: 20px;
+  font-color: FFFFFF;
+  font-padding: 100px;
+}
+
+
+p{
+  font-size: 29px;
+  font-color: FFFFFF;
+  font-padding: 100px;
+}
+
+p2{
+ font-size: 20px;
+  font-color: FFFFFF;
+  font-padding: 100px;
+
